@@ -25,7 +25,9 @@ body {
 }
 h1, h2, h3 { font-family: 'Unbounded', sans-serif; line-height: 1.2; }
 img { max-width: 100%; display: block; }
-a   { color: var(--акцент); }
+a   { color: var(--акцент); 
+text-align: right;
+}
 
 /* ── НАВІГАЦІЯ ───────────────────────────────── */
 nav {
